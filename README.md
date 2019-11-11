@@ -7,4 +7,3 @@ blue do B;
 
 red complete C;
 
-red C;
