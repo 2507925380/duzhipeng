@@ -5,5 +5,10 @@ this is change;
 
 blue do B;
 
+
 blue do E;
 blue does A;
+
+red complete C;
+
+a
